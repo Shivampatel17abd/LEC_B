@@ -282,15 +282,5 @@ All frontend requests go through `http://localhost:8000`
 
 ---
 
-## 👥 Team
-
-| Member | Role |
-|--------|------|
-| You    | Backend Architecture & Services |
-| Sai    | Frontend (React + Tailwind)      |
-| Senior 1 | Project Lead               |
-| Senior 2 | Project Lead               |
-
----
 
 *Built for communities. Made with ❤️ for small towns of India.*
